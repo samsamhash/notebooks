@@ -1,5 +1,5 @@
 # notebooks
-Notebooks:
+Notebooks ready to run in google colab free version:
 
   Notebook Chat: It is the version of the rag chat using qwen.
 
